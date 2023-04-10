@@ -1,5 +1,5 @@
-# erc20
-A simple, burnable ERC-20 token with a 100 million fixed supply. 
+# Basic ERC20Token
+A simple, burnable ERC20 token with a 100 million fixed supply. 
 
 Token also has the ability to create block rewards to distribute new supply to miners.
 
